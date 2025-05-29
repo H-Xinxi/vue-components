@@ -1,0 +1,41 @@
+[
+  {
+    "id": "y27WNuFaElLfT4dr",
+    "createdAt": "2025-05-05T09:25:47.712Z",
+    "content": "2",
+    "role": "user",
+    "parts": [
+      {
+        "type": "text",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-s0wTt053gB8XDIn95BBbh1cH",
+    "createdAt": "2025-05-05T09:25:48.860Z",
+    "content": "\n\n您好！我是由中国的深度求索（DeepSeek）公司开发的智能助手DeepSeek-R1。有关模型和产品的详细内容请参考官方文档。",
+    "reasoning": "\n\n",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "reasoning",
+        "reasoning": "\n\n",
+        "details": [
+          {
+            "type": "text",
+            "text": "\n\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n\n您好！我是由中国的深度求索（DeepSeek）公司开发的智能助手DeepSeek-R1。有关模型和产品的详细内容请参考官方文档。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "R6MBTiflha0oSiX6",
+    "createdAt": "2025-05-04T14:04:20.263Z",
+    "content": "1",
+    "role": "user",
+    "parts": [
+      {
+        "type": "text",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-Hih0YyJ9vuskGb9ICueQgldf",
+    "createdAt": "2025-05-04T14:04:21.218Z",
+    "content": "\n\n你好！请问有什么我可以帮助你的吗？无论是问题、建议还是其他需求，我都很乐意为你提供支持。😊",
+    "reasoning": "\n\n",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "reasoning",
+        "reasoning": "\n\n",
+        "details": [
+          {
+            "type": "text",
+            "text": "\n\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n\n你好！请问有什么我可以帮助你的吗？无论是问题、建议还是其他需求，我都很乐意为你提供支持。😊"
+      }
+    ]
+  }
+]
